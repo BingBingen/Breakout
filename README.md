@@ -1,5 +1,5 @@
 Hi! Thanks for checking my page out :]. This is a really simple recreation of the original breakout game. There's still much that needs to be added like levels, animation, and my own 
-designs. I am currently taking some time to learn pixel to touch up on those problems. 
+designs. I am currently taking some time to learn pixel art to touch up on those problems. 
 
 The game:
 - 3 Lives
